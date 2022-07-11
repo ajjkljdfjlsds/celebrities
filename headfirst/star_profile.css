@@ -1,0 +1,30 @@
+@font-face {
+    font-family: "Alessa";
+    src: url("../fonts/AllessaPersonalUse-4pRl.ttf");
+}
+@font-face{
+    font-family:"Chevadisplay";
+    src: url( "../fonts/ChevadisplayRegular-1G5ve.otf");
+}
+body{
+    font-family:Verdana, Geneva, sans-serif;
+    background-color:#ffd39b;
+    color:#ff1d6e;
+    text-align:center;
+    margin-top:3%;
+    margin-bottom:2%;
+    margin-right:20%;
+    margin-left:20%;
+    border:5px dotted;
+    padding:5px 20px 30px 20px;
+}
+
+p{
+    color:#ff4329;
+}
+h1{
+    font-family: "Alessa",sans-serif;
+}
+h2{
+    font-family:"Chevadisplay",sans-serif;
+}
